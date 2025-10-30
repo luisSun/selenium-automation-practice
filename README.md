@@ -80,8 +80,8 @@ mvn test
 ## ✍️ Autor
 
 **Luis Fernando Afonso**
-💼 Projeto de estudo — Automação de UI com Selenium WebDriver
-📧 [luis.sun@gmail.com](mailto:luis.sun@gmail.com)
+* 💼 Projeto de estudo — Automação de UI com Selenium WebDriver
+* 📧 [luis.sun@gmail.com](mailto:luis.sun@gmail.com)
 
 ---
 
